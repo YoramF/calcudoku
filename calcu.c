@@ -5,7 +5,7 @@
  *      Author: yoram
  *
  *      Calcudoku solver.
- *      inout file format:
+ *      input file format:
 
 <size>
 12
